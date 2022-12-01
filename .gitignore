@@ -8,6 +8,11 @@
 # testing
 /coverage
 
+#Components
+src/Components/ForwardRef.jsx
+src/Components/Test_context_child_1.jsx
+src/Components/Test_context.jsx
+
 # production
 /build
 
