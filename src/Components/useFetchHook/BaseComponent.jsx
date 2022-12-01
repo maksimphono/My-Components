@@ -13,7 +13,7 @@ export default function () {
 
     return (
         <ol>
-            {data.map(el => <li key = {el.name}>{el.name}</li>)}
+            {data.results.map(el => <li key = {el.name}>{el.name}</li>)}
         </ol>
     )
 }
