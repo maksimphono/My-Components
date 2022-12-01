@@ -11,7 +11,7 @@ export default function () {
         }
     }, []);
     return (
-        <button onClick = {() => workerInstance.postMessage(799999999999)}>
+        <button onClick = {() => workerInstance.postMessage(799999999)}>
             Send Message
         </button>
     )
