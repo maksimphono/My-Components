@@ -16,6 +16,7 @@ src/Components/Worker_testing.jsx
 src/Components/SmoothScroll
 src/Components/BeautifulDnd
 src/Components/useFetchHook
+src/Components/ReactPDF
 
 # production
 /build
